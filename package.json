@@ -1,0 +1,8 @@
+{
+  "author": "akamos",
+  "license": "UNLICENSED",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+ ]
+}
